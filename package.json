@@ -1,6 +1,6 @@
 {
-  "name": "assignment1",
-  "version": "0.0.1",
+  "name": "assignment2",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
@@ -42,7 +42,15 @@
     "@types/passport-local": "^1.0.34",
     "@types/passport-local-mongoose": "^6.1.0"
   },
-  "author": "",
+  "author": "Omar Khesruf",
   "license": "ISC",
-  "description": ""
+  "description": "Assignment2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarKhesruf/COMP229-Assignment2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/omarKhesruf/COMP229-Assignment2/issues"
+  },
+  "homepage": "https://github.com/omarKhesruf/COMP229-Assignment2#readme"
 }
